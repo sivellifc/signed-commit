@@ -10,6 +10,9 @@ Editar chave: gpg --edit-key 60AFC2230352B836
 
 	Adicionar outro email: adduid
 
+COnfigura key no git: git config user.signingkey 60AFC2230352B836
+
+
 Agent:
 
 	- Adicionar use-agent em ~/.gnupg/gpg.conf
